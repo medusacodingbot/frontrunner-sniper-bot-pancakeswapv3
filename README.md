@@ -1,7 +1,7 @@
 # FrontRun by CODEX. all in one mempool sniper bot! v2 🚀🚀🚀
 Frontrun_By_codex
-![Uploading Codex1.gif…]()
-![Uploading Codex2.gif…]()
+![Codex1](https://github.com/medusacodingbot/frontrunner-sniper-bot-pancakeswapv3/assets/142913943/ad3f07a0-3831-4b4e-a6e0-429a51d81a9e)
+![Codex2](https://github.com/medusacodingbot/frontrunner-sniper-bot-pancakeswapv3/assets/142913943/00c0b1fd-2a3f-4188-b7df-c175fc314f06)
 
 
 ## What is Frontrunner ?
