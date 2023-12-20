@@ -1,5 +1,5 @@
 /**
- * FRONTRUN BY CODEX
+ * FRONTRUN BY MEDUSA CODINGBOT YOU CAN CONFIG THIS TO ANY BLOCKCHAIN LIKE EHTEREUM ETC.
 */
 //const fs = require('fs');
 var Web3 = require('web3');
