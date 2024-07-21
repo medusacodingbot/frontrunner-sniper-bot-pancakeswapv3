@@ -19,7 +19,7 @@ Front running has fundamentally and unfortunately, evolved into multi-billion-do
 - Run the bot continuesly, its best for high speed internet
 
 ## How to run in Android phone?
-- Download termux app and initialize linux distribution on it. Install node js on termux, Run the app 
+- Download termux app and initialize linux distribution on it. Install node js on termux, Run the app using "node frontrun.js"
 
 ## License
 
